@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello Jenkins (with Java)");
+        System.out.println("Hello Jenkins (with Java app!)");
     }
 }
